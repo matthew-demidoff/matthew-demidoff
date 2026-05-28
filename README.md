@@ -3,8 +3,10 @@
 Independent software engineering profile.
 
 ## Links
-- Website: [bottleneck.cc](https://bottleneck.cc)
+- Websites:
+  - [bottleneck.cc](https://bottleneck.cc)
+  - [bneck.com](https://bneck.com)
 - About me: [readme.bottleneck.cc](https://readme.bottleneck.cc)
 
 ## Contact
-Telegram: [@damniewa](https://t.me/damniewa)
+Telegram: [@bnecko](https://t.me/bnecko)
