@@ -12,7 +12,7 @@ and internal tooling for Bottleneck.
 ## Projects
 
 - [orqlaude](https://github.com/matthew-demidoff/orqlaude) - multi-agent orchestrator
-  for Claude Code. Splits a task into parallel Agnets under one token budget, brokers
+  for Claude Code. Splits a task into parallel Agnets (orqlaude's agent units) under one token budget, brokers
   messages between them, runs a per-PR review pass. TypeScript, on npm.
 - [auth](https://github.com/bnecko/auth) - identity service for Bottleneck. OAuth 2.0,
   OpenID Connect, WebAuthn, Telegram 2FA.
