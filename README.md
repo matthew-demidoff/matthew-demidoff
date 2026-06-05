@@ -1,7 +1,7 @@
 # Matthew Demidoff
 
 Independent software engineer. I build Bottleneck ([bneck.com](https://bneck.com)),
-a software group working on self-provided APIs, messaging systems, and maintainable
+a software group working on APIs, messaging systems, and maintainable
 software.
 
 ## Current work
