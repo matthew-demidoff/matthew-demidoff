@@ -27,3 +27,5 @@ Reach me via email or Telegram.
 - Private messages: [m@bottleneck.cc](mailto:m@bottleneck.cc)
 - Telegram: [@bnecko](https://t.me/bnecko)
 - Client inquiries for Bottleneck: [hello@bneck.com](mailto:hello@bneck.com)
+
+> bneck.com bottleneck.cc oqwo.org
